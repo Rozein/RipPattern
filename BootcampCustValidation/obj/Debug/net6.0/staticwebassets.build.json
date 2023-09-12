@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B2uwHcW3LuQygHlISRMoxTvGL0PXuq+soNFuXVduQUU=",
+  "Source": "BootcampCustValidation",
+  "BasePath": "_content/BootcampCustValidation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
